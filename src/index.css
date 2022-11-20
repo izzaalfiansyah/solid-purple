@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.shadow-n {
+	box-shadow: 19px 19px 36px #c5c5c5, -19px -19px 36px #fbfbfb;
+}
