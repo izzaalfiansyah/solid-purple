@@ -1,3 +1,7 @@
+## Solid Purple
+
+<img src="https://github.com/izzaalfiansyah/solid-purple/blob/master/preview/1.png" width="100%" />
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
